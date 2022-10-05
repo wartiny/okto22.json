@@ -4,9 +4,9 @@
     "glitter"
   ],
   "init_jumlah_photo": 50,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner_id": "ca-app-pub-1961763088641942/2197118730x",
+  "admob_interstitial_id": "ca-app-pub-1961763088641942/2005547049",
+  "admob_native_id": "ca-app-pub-1961763088641942/3127057026",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -16,9 +16,9 @@
 
   "startapp_app_id": "21077x",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4958091",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 
   "interstitial_inverval": 2,
 
